@@ -11,5 +11,5 @@ html {
 }
 
 body {
-  @apply text-white;
+  @apply text-text-primary;
 }
