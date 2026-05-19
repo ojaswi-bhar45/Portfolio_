@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "deploy": "cd portfolio_ && npm run deploy"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
